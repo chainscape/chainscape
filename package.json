@@ -17,10 +17,25 @@
     "wagmi": "~1.4.2"
   },
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
     "@types/node": "^18.16.12",
     "@types/react": "^18.2.21",
     "eslint": "^8.15.0",
     "eslint-config-next": "^13.4.19",
+    "hardhat": "^2.18.0",
     "typescript": "^5.0.4"
-  }
+  },
+  "description": "This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) project bootstrapped with [`create-rainbowkit`](https://github.com/rainbow-me/rainbowkit/tree/main/packages/create-rainbowkit).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seeincodes/eth-online.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seeincodes/eth-online/issues"
+  },
+  "homepage": "https://github.com/seeincodes/eth-online#readme"
 }
